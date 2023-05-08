@@ -1,0 +1,4 @@
+*.parquet
+/API_IDs/__pycache__
+/API_IDs/classes/__pycache__
+/API_IDs/config/__pycache__

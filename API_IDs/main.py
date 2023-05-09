@@ -1,4 +1,4 @@
-from config.constants_api_fluxo import url_base, headers, folder_path, date_column_from_api, date_column_from_query
+from config.constants_api import url_base, headers, folder_path, date_column_from_api, date_column_from_query
 from classes.CodeRunner import CodeRunner   
 from config.desired_fields import desired_fields
 
